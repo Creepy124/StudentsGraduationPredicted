@@ -1,0 +1,72 @@
+@relation test
+
+@attribute 'Vaº­t lA½ 2' numeric
+@attribute 'So lan hoc Vaº­t lA½ 2' numeric
+@attribute 'ToA¡n cao caº¥p A1' numeric
+@attribute 'So lan hoc ToA¡n cao caº¥p A1' numeric
+@attribute 'ToA¡n cao caº¥p A2' numeric
+@attribute 'So lan hoc ToA¡n cao caº¥p A2' numeric
+@attribute 'Nhaº­p mA´n tin ha»?c' numeric
+@attribute 'So lan hoc Nhaº­p mA´n tin ha»?c' numeric
+@attribute 'Laº­p trA¬nh cÆ¡ baº£n' numeric
+@attribute 'So lan hoc Laº­p trA¬nh cÆ¡ baº£n' numeric
+@attribute 'CA¡c ng.lA½ CB ca»§a CN MA¡cLAªnin' numeric
+@attribute 'So lan hoc CA¡c ng.lA½ CB ca»§a CN MA¡cLAªnin' numeric
+@attribute 'ToA¡n cao caº¥p A3' numeric
+@attribute 'So lan hoc ToA¡n cao caº¥p A3' numeric
+@attribute 'Caº¥u trAºc mA¡y tA­nh' numeric
+@attribute 'So lan hoc Caº¥u trAºc mA¡y tA­nh' numeric
+@attribute 'Laº­p trA¬nh nA¢ng cao' numeric
+@attribute 'So lan hoc Laº­p trA¬nh nA¢ng cao' numeric
+@attribute 'TÆ° tÆ°a»Ÿng Ha»“ ChA­ Minh' numeric
+@attribute 'So lan hoc TÆ° tÆ°a»Ÿng Ha»“ ChA­ Minh' numeric
+@attribute 'Maº¡ng mA¡y tA­nh cÆ¡ baº£n' numeric
+@attribute 'So lan hoc Maº¡ng mA¡y tA­nh cÆ¡ baº£n' numeric
+@attribute 'Caº¥u trAºc da»¯ lia»‡u' numeric
+@attribute 'So lan hoc Caº¥u trAºc da»¯ lia»‡u' numeric
+@attribute 'XA¡c suaº¥t tha»‘ng kAª' numeric
+@attribute 'So lan hoc XA¡c suaº¥t tha»‘ng kAª' numeric
+@attribute 'Marketing cÄƒn baº£n' numeric
+@attribute 'So lan hoc Marketing cÄƒn baº£n' numeric
+@attribute 'Nhaº­p mA´n ha»‡ Ä‘ia»?u hA nh' numeric
+@attribute 'So lan hoc Nhaº­p mA´n ha»‡ Ä‘ia»?u hA nh' numeric
+@attribute 'Ä?Æ°a»?ng la»‘i CM ca»§a Ä?aº£ng CSVN' numeric
+@attribute 'So lan hoc Ä?Æ°a»?ng la»‘i CM ca»§a Ä?aº£ng CSVN' numeric
+@attribute 'LA½ thuyaº¿t Ä‘a»“ tha»‹' numeric
+@attribute 'So lan hoc LA½ thuyaº¿t Ä‘a»“ tha»‹' numeric
+@attribute 'Ha»‡ Ä‘ia»?u hA nh nA¢ng cao' numeric
+@attribute 'So lan hoc Ha»‡ Ä‘ia»?u hA nh nA¢ng cao' numeric
+@attribute 'Nhaº­p mA´n cÆ¡ sa»Ÿ da»¯ lia»‡u' numeric
+@attribute 'So lan hoc Nhaº­p mA´n cÆ¡ sa»Ÿ da»¯ lia»‡u' numeric
+@attribute 'Thiaº¿t kaº¿ hÆ°a»›ng Ä‘a»‘i tÆ°a»£ng' numeric
+@attribute 'So lan hoc Thiaº¿t kaº¿ hÆ°a»›ng Ä‘a»‘i tÆ°a»£ng' numeric
+@attribute 'Ä?a»“ ha»?a mA¡y tA­nh' numeric
+@attribute 'So lan hoc Ä?a»“ ha»?a mA¡y tA­nh' numeric
+@attribute 'PhA¢n tA­ch vA  thiaº¿t kaº¿ HTTT' numeric
+@attribute 'So lan hoc PhA¢n tA­ch vA  thiaº¿t kaº¿ HTTT' numeric
+@attribute 'Laº­p trA¬nh maº¡ng' numeric
+@attribute 'So lan hoc Laº­p trA¬nh maº¡ng' numeric
+@attribute 'Laº­p trA¬nh Web' numeric
+@attribute 'So lan hoc Laº­p trA¬nh Web' numeric
+@attribute 'Giao tiaº¿p ngÆ°a»?i _mA¡y' numeric
+@attribute 'So lan hoc Giao tiaº¿p ngÆ°a»?i _mA¡y' numeric
+@attribute 'Nhaº­p mA´n CN phaº§n ma»?m' numeric
+@attribute 'So lan hoc Nhaº­p mA´n CN phaº§n ma»?m' numeric
+@attribute 'Laº­p trA¬nh .NET' numeric
+@attribute 'So lan hoc Laº­p trA¬nh .NET' numeric
+@attribute 'Nhaº­p mA´n trA­ tua»‡ nhA¢n taº¡o' numeric
+@attribute 'So lan hoc Nhaº­p mA´n trA­ tua»‡ nhA¢n taº¡o' numeric
+@attribute 'Data Mining' numeric
+@attribute 'So lan hoc Data Mining' numeric
+@attribute 'Ha»‡ quaº£n tra»‹ cÆ¡ sa»Ÿ da»¯ lia»‡u' numeric
+@attribute 'So lan hoc Ha»‡ quaº£n tra»‹ cÆ¡ sa»Ÿ da»¯ lia»‡u' numeric
+@attribute 'Data Warehouse' numeric
+@attribute 'So lan hoc Data Warehouse' numeric
+@attribute 'Diem mon co ban' numeric
+@attribute 'Diem mon chuyen nganh' numeric
+@attribute 'Diem mon tu chon 1' numeric
+@attribute 'Diem mon tu chon 2' numeric
+@attribute 'Tot nghiep' {True,False}
+
+@data
+2.5,1,2.5,1,2.0,1,2.0,1,4.0,1,3.0,1,2.5,1,2.0,1,2.5,2,3.0,1,3.5,1,3.0,1,4.0,1,2.5,1,3.0,1,4.0,1,4.0,1,2.5,1,3.5,1,3.5,1,2.5,1,3.5,1,3.0,1,3.0,1,3.5,1,3.0,1,2.5,1,4.0,1,4.0,1,2.5,1,3.5,1,2.96,3.2,2.5,3.09,?

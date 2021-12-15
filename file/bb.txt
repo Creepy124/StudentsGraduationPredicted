@@ -1,0 +1,216 @@
+Cổng Thông Tin Đào Tạo-Trường Đại học Nông Lâm TP.HCM-DHNL
+Chào bạn Đào Thanh Tùng (17130264) Xem thông báo | Thay đổi mật khẩu | Thoát  
+Font Unicode
+TRANG CHỦ
+ĐĂNG KÝ MÔN HỌC
+XEM TKB
+XEM LỊCH THI
+XEM HỌC PHÍ
+ĐÓNG TIỀN HỌC PHÍ
+XEM ĐIỂM
+XEM CTĐT
+XEM MÔN TQ
+SỬA TT CÁ NHÂN
+GÓP Ý KIẾN
+ĐÁNH GIÁ GIẢNG DẠY
+TRA CỨU THÔNG TIN TỐT NGHIỆP
+HÓA ĐƠN ĐIỆN TỬ
+Mã sinh viên 	17130264
+Tên sinh viên 	Đào Thanh Tùng
+Phái 	Nam
+Nơi sinh 	Đồng Nai
+Lớp 	DH17DTC( Công nghệ thông tin C)
+Ngành 	Công nghệ thông tin
+Khoa 	Công nghệ thông tin
+Hệ đào tạo 	Đại học Chính quy (Tín chỉ)
+Khóa học 	2017-2021
+Cố vấn học tập 	
+Học kỳ 1 Năm học 2020 
+ Nhập học kỳ xem điểm thi (vd 20061):    Xem
+STT	Mã Môn	Tên Môn	TC	% KT	% Thi	Thi L1	Thi L2	TK(10)	TK(CH)
+Điểm bảo lưu
+1	NN	Chuẩn đầu ra B1	0	   	  	  	  	M	M
+Học kỳ 1 - Năm học 2017-2018
+2	202206	Vật lý 2	2	   	  	6.7	   	6.7	C+
+3	202108	Toán cao cấp A1	3	   	  	6.4	   	6.4	C+
+4	202109	Toán cao cấp A2	3	   	  	5.8	   	5.8	C
+5	202501	Giáo dục thể chất 1*	1	   	  	6.0	   	6.0	C+
+6	214201	Nhập môn tin học	3	   	  	5.3	   	5.3	C
+7	214321	Lập trình cơ bản	4	   	  	9.0	   	9.0	A
+Điểm trung bình học kỳ hệ 10/100:6.79
+Điểm trung bình học kỳ hệ 4:2.70
+Điểm trung bình tích lũy:6.79
+Điểm trung bình tích lũy (hệ 4):2.70
+Số tín chỉ đạt:16
+Số tín chỉ tích lũy:16
+Học kỳ 2 - Năm học 2017-2018
+8	202502	Giáo dục thể chất 2*	1	   	  	V	   	V	F
+9	200106	Các ng.lý CB của CN MácLênin	5	   	  	7.6	   	7.6	B
+10	202110	Toán cao cấp A3	3	   	  	6.4	   	6.4	C+
+11	214231	Cấu trúc máy tính	2	   	  	5.8	   	5.8	C
+12	214331	Lập trình nâng cao	4	   	  	6.7	   	6.7	C+
+13	213603	Anh văn 1	4	   	  	8.9	   	8.9	B+
+Điểm trung bình học kỳ hệ 10/100:6.83
+Điểm trung bình học kỳ hệ 4:2.61
+Điểm trung bình tích lũy:6.81
+Điểm trung bình tích lũy (hệ 4):2.66
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:34
+Học kỳ 3 - Năm học 2017-2018
+14	200201	Quân sự 1 (lý thuyết)*	3	   	  	9.0	   	9.0	A
+15	200202	Quân sự (thực hành)*	3	   	  	7.5	   	7.5	B
+Học kỳ 1 - Năm học 2018-2019
+16	200107	Tư tưởng Hồ Chí Minh	2	   	  	7.4	   	7.4	B
+17	213604	Anh văn 2	3	   	  	8.7	   	8.7	B+
+18	214241	Mạng máy tính cơ bản	3	   	  	8.8	   	8.8	B+
+19	214441	Cấu trúc dữ liệu	4	   	  	7.8	   	7.8	B
+20	202121	Xác suất thống kê	3	   	  	9.2	   	9.2	A
+21	208453	Marketing căn bản	2	   	  	6.4	   	6.4	C+
+22	214242	Nhập môn hệ điều hành	3	   	  	7.5	   	7.5	B
+Điểm trung bình học kỳ hệ 10/100:7.96
+Điểm trung bình học kỳ hệ 4:3.21
+Điểm trung bình tích lũy:7.23
+Điểm trung bình tích lũy (hệ 4):2.86
+Số tín chỉ đạt:20
+Số tín chỉ tích lũy:60
+Học kỳ 2 - Năm học 2018-2019
+23	200104	Đường lối CM của Đảng CSVN	3	   	  	9.1	   	9.1	A
+24	214351	Lý thuyết đồ thị	4	   	  	9.0	   	9.0	A
+25	214251	Hệ điều hành nâng cao	3	   	  	6.9	   	6.9	C+
+26	214442	Nhập môn cơ sở dữ liệu	4	   	  	8.5	   	8.5	B+
+27	214352	Thiết kế hướng đối tượng	4	   	  	8.1	   	8.1	B+
+Điểm trung bình học kỳ hệ 10/100:8.36
+Điểm trung bình học kỳ hệ 4:3.53
+Điểm trung bình tích lũy:7.55
+Điểm trung bình tích lũy (hệ 4):3.05
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:78
+Học kỳ 1 - Năm học 2019-2020
+28	214353	Đồ họa máy tính	3	   	  	6.0	   	6.0	C+
+29	214461	Phân tích và thiết kế HTTT	4	   	  	8.4	   	8.4	B+
+30	214252	Lập trình mạng	4	   	  	7.0	   	7.0	B
+31	214462	Lập trình Web	4	   	  	7.9	   	7.9	B
+32	214361	Giao tiếp người _máy	3	   	  	8.6	   	8.6	B+
+Điểm trung bình học kỳ hệ 10/100:7.61
+Điểm trung bình học kỳ hệ 4:3.11
+Điểm trung bình tích lũy:7.62
+Điểm trung bình tích lũy (hệ 4):3.08
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:93
+Học kỳ 2 - Năm học 2019-2020
+33	214370	Nhập môn CN phần mềm	4	   	  	7.7	   	7.7	B
+34	214372	Lập trình .NET	4	   	  	6.5	   	6.5	C+
+35	214463	Nhập môn trí tuệ nhân tạo	4	   	  	9.6	   	9.6	A
+36	214485	Data Mining	4	   	  	9.5	   	9.5	A
+37	214451	Hệ quản trị cơ sở dữ liệu	3	   	  	6.2	   	6.2	C+
+38	202502	Giáo dục thể chất 2*	1	   	  	6.0	   	6.0	C+
+39	214477	Data Warehouse	4	   	  	8.3	   	8.3	B+
+40	214331	Lập trình nâng cao	4	   	  	6.7	   	6.7	C+
+Điểm trung bình học kỳ hệ 10/100:8.04
+Điểm trung bình học kỳ hệ 4:3.28
+Điểm trung bình tích lũy:7.72
+Điểm trung bình tích lũy (hệ 4):3.13
+Số tín chỉ đạt:24
+Số tín chỉ tích lũy:117
+Học kỳ 1 - Năm học 2020-2021
+40	214379	ĐBCL và kiểm thử phần mềm	4	   	  	  	  	  	 
+41	214271	Quản trị mạng	3	   	  	  	  	  	 
+42	202622	Pháp luật đại cương	2	   	  	  	  	  	 
+STT	Mã Môn	Tên Môn	TC	% KT	% Thi	Thi L1	Thi L2	TK(10)	TK(CH)
+STT	Mã Môn	Tên Môn	TC	% KT	% Thi	Thi L1	Thi L2	TK(10)	TK(CH)
+Điểm bảo lưu
+1	NN	Chuẩn đầu ra B1	0	   	  	  	  	M	M
+Học kỳ 1 - Năm học 2017-2018
+2	202206	Vật lý 2	2	   	  	6.7	   	6.7	C+
+3	202108	Toán cao cấp A1	3	   	  	6.4	   	6.4	C+
+4	202109	Toán cao cấp A2	3	   	  	5.8	   	5.8	C
+5	202501	Giáo dục thể chất 1*	1	   	  	6.0	   	6.0	C+
+6	214201	Nhập môn tin học	3	   	  	5.3	   	5.3	C
+7	214321	Lập trình cơ bản	4	   	  	9.0	   	9.0	A
+Điểm trung bình học kỳ hệ 10/100:6.79
+Điểm trung bình học kỳ hệ 4:2.70
+Điểm trung bình tích lũy:6.79
+Điểm trung bình tích lũy (hệ 4):2.70
+Số tín chỉ đạt:16
+Số tín chỉ tích lũy:16
+Học kỳ 2 - Năm học 2017-2018
+8	202502	Giáo dục thể chất 2*	1	   	  	V	   	V	F
+9	200106	Các ng.lý CB của CN MácLênin	5	   	  	7.6	   	7.6	B
+10	202110	Toán cao cấp A3	3	   	  	6.4	   	6.4	C+
+11	214231	Cấu trúc máy tính	2	   	  	5.8	   	5.8	C
+12	214331	Lập trình nâng cao	4	   	  	6.7	   	6.7	C+
+13	213603	Anh văn 1	4	   	  	8.9	   	8.9	B+
+Điểm trung bình học kỳ hệ 10/100:6.83
+Điểm trung bình học kỳ hệ 4:2.61
+Điểm trung bình tích lũy:6.81
+Điểm trung bình tích lũy (hệ 4):2.66
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:34
+Học kỳ 3 - Năm học 2017-2018
+14	200201	Quân sự 1 (lý thuyết)*	3	   	  	9.0	   	9.0	A
+15	200202	Quân sự (thực hành)*	3	   	  	7.5	   	7.5	B
+Học kỳ 1 - Năm học 2018-2019
+16	200107	Tư tưởng Hồ Chí Minh	2	   	  	7.4	   	7.4	B
+17	213604	Anh văn 2	3	   	  	8.7	   	8.7	B+
+18	214241	Mạng máy tính cơ bản	3	   	  	8.8	   	8.8	B+
+19	214441	Cấu trúc dữ liệu	4	   	  	7.8	   	7.8	B
+20	202121	Xác suất thống kê	3	   	  	9.2	   	9.2	A
+21	208453	Marketing căn bản	2	   	  	6.4	   	6.4	C+
+22	214242	Nhập môn hệ điều hành	3	   	  	7.5	   	7.5	B
+Điểm trung bình học kỳ hệ 10/100:7.96
+Điểm trung bình học kỳ hệ 4:3.21
+Điểm trung bình tích lũy:7.23
+Điểm trung bình tích lũy (hệ 4):2.86
+Số tín chỉ đạt:20
+Số tín chỉ tích lũy:60
+Học kỳ 2 - Năm học 2018-2019
+23	200104	Đường lối CM của Đảng CSVN	3	   	  	9.1	   	9.1	A
+24	214351	Lý thuyết đồ thị	4	   	  	9.0	   	9.0	A
+25	214251	Hệ điều hành nâng cao	3	   	  	6.9	   	6.9	C+
+26	214442	Nhập môn cơ sở dữ liệu	4	   	  	8.5	   	8.5	B+
+27	214352	Thiết kế hướng đối tượng	4	   	  	8.1	   	8.1	B+
+Điểm trung bình học kỳ hệ 10/100:8.36
+Điểm trung bình học kỳ hệ 4:3.53
+Điểm trung bình tích lũy:7.55
+Điểm trung bình tích lũy (hệ 4):3.05
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:78
+Học kỳ 1 - Năm học 2019-2020
+28	214353	Đồ họa máy tính	3	   	  	6.0	   	6.0	C+
+29	214461	Phân tích và thiết kế HTTT	4	   	  	8.4	   	8.4	B+
+30	214252	Lập trình mạng	4	   	  	7.0	   	7.0	B
+31	214462	Lập trình Web	4	   	  	7.9	   	7.9	B
+32	214361	Giao tiếp người _máy	3	   	  	8.6	   	8.6	B+
+Điểm trung bình học kỳ hệ 10/100:7.61
+Điểm trung bình học kỳ hệ 4:3.11
+Điểm trung bình tích lũy:7.62
+Điểm trung bình tích lũy (hệ 4):3.08
+Số tín chỉ đạt:18
+Số tín chỉ tích lũy:93
+Học kỳ 2 - Năm học 2019-2020
+33	214370	Nhập môn CN phần mềm	4	   	  	7.7	   	7.7	B
+34	214372	Lập trình .NET	4	   	  	6.5	   	6.5	C+
+35	214463	Nhập môn trí tuệ nhân tạo	4	   	  	9.6	   	9.6	A
+36	214485	Data Mining	4	   	  	9.5	   	9.5	A
+37	214451	Hệ quản trị cơ sở dữ liệu	3	   	  	6.2	   	6.2	C+
+38	202502	Giáo dục thể chất 2*	1	   	  	6.0	   	6.0	C+
+39	214477	Data Warehouse	4	   	  	8.3	   	8.3	B+
+Điểm trung bình học kỳ hệ 10/100:8.04
+Điểm trung bình học kỳ hệ 4:3.28
+Điểm trung bình tích lũy:7.72
+Điểm trung bình tích lũy (hệ 4):3.13
+Số tín chỉ đạt:24
+Số tín chỉ tích lũy:117
+Học kỳ 1 - Năm học 2020-2021
+40	214379	ĐBCL và kiểm thử phần mềm	4	   	  	  	  	  	 
+41	214271	Quản trị mạng	3	   	  	  	  	  	 
+42	202622	Pháp luật đại cương	2	   	  	  	  	  	 
+STT	Mã Môn	Tên Môn	TC	% KT	% Thi	Thi L1	Thi L2	TK(10)	TK(CH)
+
+Học kỳ 1 Năm học 2020
+
+ ( Dữ liệu được cập nhật vào lúc: 11:7 Ngày: 17/12/2020) 
+IN ĐIỂM THI 
+ XUẤT FILE EXCEL
+Copyright ©2009 Trường Đại học Nông Lâm TP.HCM. Quản lý bởi 		Trang Chủ
+Thiết kế bởi cty Phần mềm Anh Quân 		Đầu Trang 	About
