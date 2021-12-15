@@ -1,0 +1,79 @@
+@relation test
+
+@attribute 'Toan cao cap A1' numeric
+@attribute 'So lan hoc Toan cao cap A1' numeric
+@attribute 'Vat Ly 2' numeric
+@attribute 'So lan hoc Vat Ly 2' numeric
+@attribute 'Toan cao cap A2' numeric
+@attribute 'So lan hoc Toan cao cap A2' numeric
+@attribute 'Cac ng.ly CB cua CN MacLenin' numeric
+@attribute 'So lan hoc Cac ng.ly CB cua CN MacLenin' numeric
+@attribute 'Xac suat thong ke' numeric
+@attribute 'So lan hoc Xac suat thong ke' numeric
+@attribute 'Phap luat dai cuong' numeric
+@attribute 'So lan hoc Phap luat dai cuong' numeric
+@attribute 'Duong loi CM cua Dang CSVN' numeric
+@attribute 'So lan hoc Duong loi CM cua Dang CSVN' numeric
+@attribute 'Tu tuong Ho Chi Minh' numeric
+@attribute 'So lan hoc Tu tuong Ho Chi Minh' numeric
+@attribute 'Toan cao cap A3' numeric
+@attribute 'So lan hoc Toan cao cap A3' numeric
+@attribute 'Lap trinh co ban' numeric
+@attribute 'So lan hoc Lap trinh co ban' numeric
+@attribute 'Nhap mon tin hoc' numeric
+@attribute 'So lan hoc Nhap mon tin hoc' numeric
+@attribute 'Cau truc may tinh' numeric
+@attribute 'So lan hoc Cau truc may tinh' numeric
+@attribute 'Lap trinh nang cao' numeric
+@attribute 'So lan hoc Lap trinh nang cao' numeric
+@attribute 'Nhap mon CN phan mem' numeric
+@attribute 'So lan hoc Nhap mon CN phan mem' numeric
+@attribute 'Nhap mon he dieu hanh' numeric
+@attribute 'So lan hoc Nhap mon he dieu hanh' numeric
+@attribute 'Cau truc du lieu' numeric
+@attribute 'So lan hoc Cau truc du lieu' numeric
+@attribute 'Mang may tinh co ban' numeric
+@attribute 'So lan hoc Mang may tinh co ban' numeric
+@attribute 'Thiet ke huong doi tuong' numeric
+@attribute 'So lan hoc Thiet ke huong doi tuong' numeric
+@attribute 'Nhap mon co so du lieu' numeric
+@attribute 'So lan hoc Nhap mon co so du lieu' numeric
+@attribute 'He dieu hanh nang cao' numeric
+@attribute 'So lan hoc He dieu hanh nang cao' numeric
+@attribute 'Ly thuyet do thi' numeric
+@attribute 'So lan hoc Ly thuyet do thi' numeric
+@attribute 'Lap trinh mang' numeric
+@attribute 'So lan hoc Lap trinh mang' numeric
+@attribute 'Phan tich va thiet ke HTTT' numeric
+@attribute 'So lan hoc Phan tich va thiet ke HTTT' numeric
+@attribute 'Giao tiep nguoi _may' numeric
+@attribute 'So lan hoc Giao tiep nguoi _may' numeric
+@attribute 'Lap trinh Web' numeric
+@attribute 'So lan hoc Lap trinh Web' numeric
+@attribute 'Nhap mon tri tue nhan tao' numeric
+@attribute 'So lan hoc Nhap mon tri tue nhan tao' numeric
+@attribute 'Thuong mai dien tu' numeric
+@attribute 'So lan hoc Thuong mai dien tu' numeric
+@attribute 'Quan ly du an phan mem' numeric
+@attribute 'So lan hoc Quan ly du an phan mem' numeric
+@attribute 'DBCL va kiem thu phan mem' numeric
+@attribute 'So lan hoc DBCL va kiem thu phan mem' numeric
+@attribute 'Marketing can ban' numeric
+@attribute 'So lan hoc Marketing can ban' numeric
+@attribute 'Data Warehouse' numeric
+@attribute 'So lan hoc Data Warehouse' numeric
+@attribute 'DACN He thong thong tin' numeric
+@attribute 'So lan hoc DACN He thong thong tin' numeric
+@attribute 'Chuyen de WEB' numeric
+@attribute 'So lan hoc Chuyen de WEB' numeric
+@attribute 'Chuyen de Java' numeric
+@attribute 'So lan hoc Chuyen de Java' numeric
+@attribute 'Diem mon co ban' numeric
+@attribute 'Diem mon chuyen nganh' numeric
+@attribute 'Diem mon tu chon 1' numeric
+@attribute 'Diem mon tu chon 2' numeric
+@attribute 'Diem mon tu chon 3' numeric
+@attribute 'Tot nghiep' {True,False}
+
+@data
+2.5,1,2.0,2,1.5,1,2.5,2,1.5,1,1.5,1,3.5,1,3.5,1,1.5,1,1.5,1,2.5,1,3.0,1,1.5,1,3.0,1,2.0,1,2.0,1,2.0,1,1.5,1,3.5,1,2.0,1,2.5,1,2.5,2,3.0,1,4.0,1,3.0,1,3.5,1,2.0,1,4.0,1,2.5,1,3.5,1,2.5,1,3.0,1,3.5,1,2.5,1,2.0,2.0,2.0,2.0,3.0,?
